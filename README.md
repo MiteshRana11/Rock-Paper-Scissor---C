@@ -1,5 +1,3 @@
-# Rock-Paper-Scissor---C
-This is a console-based Rock Paper Scissors game written in C. The game is played between the user and the CPU for three rounds. It uses random number generation to simulate computer choices and basic conditional logic to decide the winner. This project is created for learning and fun.
 # Rock Paper Scissors Game in C 🎮
 
 A simple console-based **Rock Paper Scissors** game built using the **C programming language**, where the user plays against the computer for three rounds.

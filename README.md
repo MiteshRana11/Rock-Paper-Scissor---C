@@ -37,15 +37,7 @@ This project is beginner-friendly and demonstrates the use of functions, conditi
 
 ---
 
-## ▶️ How to Compile and Run
-
-### On Linux / Mac
-```bash
-gcc rps.c -o rps
-./rps
-
-
-### 👨‍💻 Author  
+## 👨‍💻 Author  
 Developed by **[Mitesh Rana](https://github.com/Miteshrana11)**  
 
 ---

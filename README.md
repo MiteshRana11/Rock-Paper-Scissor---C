@@ -44,14 +44,6 @@ This project is beginner-friendly and demonstrates the use of functions, conditi
 gcc rps.c -o rps
 ./rps
 
-## 📸 Screenshot  
-👉 is Here
-<img width="1897" height="980" alt="image" src="C:\Users\Dell\OneDrive\Pictures\Screenshots\Screenshot 2026-01-19 184556.png" />
-
-<img width="1897" height="980" alt="image" src="C:\Users\Dell\OneDrive\Pictures\Screenshots\Screenshot 2026-01-19 184654.png" />
-
----
-
 ## 👨‍💻 Author  
 Developed by **[Mitesh Rana](https://github.com/Miteshrana11)**  
 

@@ -44,6 +44,7 @@ This project is beginner-friendly and demonstrates the use of functions, conditi
 gcc rps.c -o rps
 ./rps
 
+
 ### 👨‍💻 Author  
 Developed by **[Mitesh Rana](https://github.com/Miteshrana11)**  
 
